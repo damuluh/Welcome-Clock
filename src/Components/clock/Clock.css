@@ -1,0 +1,5 @@
+.Clock {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0 ,0, 0.3);
+    padding: 1rem 2rem;
+  }
