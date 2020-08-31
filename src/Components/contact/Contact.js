@@ -56,6 +56,7 @@ class Contact extends Component {
               onChange={this.handleChange}
               required
               minLength
+              placeholder='Enter FirstName '
             />
           </div>
           <div>
@@ -66,6 +67,7 @@ class Contact extends Component {
               value={this.state.formData.lastName}
               onChange={this.handleChange}
               required
+              placeholder='Enter LastName '
             />
           </div>
           <button>Sumit Form</button>
